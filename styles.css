@@ -1,0 +1,23 @@
+body {
+    font-family: sans-serif;
+    margin: 30px;
+    text-align: center;
+  }
+  
+  #svg {
+    width: 700px;
+    height: 600px;
+    margin: 0 auto;
+    display: block;
+  }
+  
+  .legend {
+    font-size: 14px;
+  }
+  
+  .legend-item {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+  }
+  
